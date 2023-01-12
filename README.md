@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src=https://i.imgur.com/gLGBYE0.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The "intake" part of the ticket cycle is the creation of the ticket. This allows the user to create a ticket and help provide the issue, the topic of the issue and a summarization of the issue. 
 </p>
 <br />
 
@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/eX43f6z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The Assignment and Communication part of the cycle allows the Admin to assign the ticket to the appropriate party and allows the users and the asignee to communicate with each other to provide updates and resoulution. 
 </p>
 <br />
 
@@ -49,8 +49,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/7JafgsZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+With osTicket providing the comunication with the user and the Admin, It also help set a SLA(Service Level Agreement)to give it priority context and it shows the immediate assistance that it needs in order to solve the issue.
 </p>
 <br />
 
 <p><img src=https://i.imgur.com/XVIFtTu.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  The resoulution in which it is shown, If the ticket is resolved, the user will be informed immediately within the ticket and it will be shown in the closed part of the application.
